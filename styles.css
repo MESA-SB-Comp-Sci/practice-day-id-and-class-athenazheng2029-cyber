@@ -4,4 +4,60 @@
 
 /* write your rules below  this line*/
 
+.dark-bg{
+    background-color: #1e1e1e;
+}
 
+.light-text{
+    color: #ffffff;
+}
+
+.rounded{
+    border-radius: 10px;
+}
+
+.spaced-out{
+    padding: 20px;
+}
+
+#page-title{
+    font-size: 48px;
+    text-align: center;
+}
+
+.card{
+    width: 20 px;
+    height: 20 px;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    border: 15px;
+    padding: 20px;
+}
+
+.warning{
+    background-color: yellow;
+    border-color: black;
+    border: 20px;
+    padding: 20px;
+}
+
+.img-style{
+    background-color: white;
+    border: 20px;
+    border-style: ridge;
+    border-color: black;
+}
+
+.label{
+    background-color: black;
+    border: 20px;
+    border-style: ridge;
+    padding: 40px;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
